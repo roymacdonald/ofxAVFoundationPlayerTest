@@ -1,0 +1,422 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* TragamonedasEnjoy */ = {
+		activeExec = 0;
+		executables = (
+			B0C91CE41448D0E200C9B007 /* TragamonedasEnjoy */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B0C91CE41448D0E200C9B007 /* TragamonedasEnjoy */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TragamonedasEnjoy */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TragamonedasEnjoy */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = B0C91CF91448D10000C9B007 /* Code sense */;
+		executables = (
+			B0C91CE41448D0E200C9B007 /* TragamonedasEnjoy */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					732,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					922,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 340543178;
+			PBXWorkspaceStateSaveDate = 340543178;
+		};
+		perUserProjectItems = {
+			B0C91DA5144952C700C9B007 = B0C91DA5144952C700C9B007 /* PBXBookmark */;
+			B0C91DA6144952C700C9B007 = B0C91DA6144952C700C9B007 /* PBXBookmark */;
+			B0C91DA7144952C700C9B007 = B0C91DA7144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DA8144952C700C9B007 = B0C91DA8144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DA9144952C700C9B007 = B0C91DA9144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DAA144952C700C9B007 = B0C91DAA144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DAB144952C700C9B007 = B0C91DAB144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DAC144952C700C9B007 = B0C91DAC144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DAD144952C700C9B007 = B0C91DAD144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DAE144952C700C9B007 = B0C91DAE144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DAF144952C700C9B007 = B0C91DAF144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DB0144952C700C9B007 = B0C91DB0144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DB1144952C700C9B007 = B0C91DB1144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DB2144952C700C9B007 = B0C91DB2144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DB3144952C700C9B007 = B0C91DB3144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DB4144952C700C9B007 = B0C91DB4144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DB5144952C700C9B007 = B0C91DB5144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DB6144952C700C9B007 = B0C91DB6144952C700C9B007 /* PBXTextBookmark */;
+			B0C91DB7144952C700C9B007 = B0C91DB7144952C700C9B007 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B0C91CF81448D10000C9B007 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B0C91CE41448D0E200C9B007 /* TragamonedasEnjoy */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TragamonedasEnjoy;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B0C91CF81448D10000C9B007 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B0C91CF91448D10000C9B007 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B0C91D221448DA2100C9B007 /* Intro.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{494, 42}";
+			sepNavVisRange = "{0, 539}";
+		};
+	};
+	B0C91D231448DA2100C9B007 /* Intro.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{534, 182}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1183}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{160, 0}";
+			sepNavVisRange = "{0, 1002}";
+		};
+	};
+	B0C91D3D1448DBB800C9B007 /* Configuracion.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{527, 0}";
+			sepNavVisRange = "{0, 1264}";
+		};
+	};
+	B0C91D3E1448DBB800C9B007 /* Configuracion.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{307, 262}";
+			sepNavVisRange = "{0, 574}";
+		};
+	};
+	B0C91D3F1448DBB800C9B007 /* Juego.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{534, 182}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1183}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{159, 0}";
+			sepNavVisRange = "{0, 1002}";
+		};
+	};
+	B0C91D401448DBB800C9B007 /* Juego.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{537, 0}";
+			sepNavVisRange = "{0, 542}";
+		};
+	};
+	B0C91D431448E86100C9B007 /* Premio.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{209, 1}";
+			sepNavVisRange = "{0, 211}";
+		};
+	};
+	B0C91D461448E86E00C9B007 /* PremioConf.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{782, 0}";
+			sepNavVisRange = "{0, 906}";
+		};
+	};
+	B0C91D471448E86E00C9B007 /* PremioConf.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 1859}}";
+			sepNavSelRange = "{1996, 0}";
+			sepNavVisRange = "{2158, 1281}";
+		};
+	};
+	B0C91D491448E8C200C9B007 /* PremiosConfController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{911, 0}";
+			sepNavVisRange = "{0, 915}";
+		};
+	};
+	B0C91D4A1448E8C200C9B007 /* PremiosConfController.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 741}}";
+			sepNavSelRange = "{642, 0}";
+			sepNavVisRange = "{0, 1914}";
+		};
+	};
+	B0C91D731449205D00C9B007 /* CombinationSelector.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{320, 0}";
+			sepNavVisRange = "{0, 545}";
+		};
+	};
+	B0C91D741449205D00C9B007 /* CombinationSelector.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2135, 702}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3618}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 1313}}";
+			sepNavSelRange = "{894, 0}";
+			sepNavVisRange = "{187, 1576}";
+		};
+	};
+	B0C91DA5144952C700C9B007 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BB24DD8D10DA77E000E9C588 /* Icon.png */;
+	};
+	B0C91DA6144952C700C9B007 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BB24DD8C10DA77E000E9C588 /* Default.png */;
+	};
+	B0C91DA7144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D3D1448DBB800C9B007 /* Configuracion.cpp */;
+		name = "Configuracion.cpp: 20";
+		rLen = 0;
+		rLoc = 527;
+		rType = 0;
+		vrLen = 1264;
+		vrLoc = 0;
+	};
+	B0C91DA8144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D3E1448DBB800C9B007 /* Configuracion.h */;
+		name = "Configuracion.h: 23";
+		rLen = 262;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 574;
+		vrLoc = 0;
+	};
+	B0C91DA9144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D3F1448DBB800C9B007 /* Juego.cpp */;
+		name = "Juego.cpp: 11";
+		rLen = 0;
+		rLoc = 159;
+		rType = 0;
+		vrLen = 1183;
+		vrLoc = 0;
+	};
+	B0C91DAA144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D401448DBB800C9B007 /* Juego.h */;
+		name = "Juego.h: 30";
+		rLen = 0;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 542;
+		vrLoc = 0;
+	};
+	B0C91DAB144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4D8936B11527B74007E1F53 /* main.mm */;
+		name = "main.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 158;
+		vrLoc = 0;
+	};
+	B0C91DAC144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D221448DA2100C9B007 /* Intro.h */;
+		name = "Intro.h: 28";
+		rLen = 42;
+		rLoc = 494;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 0;
+	};
+	B0C91DAD144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D231448DA2100C9B007 /* Intro.cpp */;
+		name = "Intro.cpp: 12";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 1183;
+		vrLoc = 0;
+	};
+	B0C91DAE144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4D8936C11527B74007E1F53 /* tragamonedas.h */;
+		name = "tragamonedas.h: 37";
+		rLen = 0;
+		rLoc = 725;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 0;
+	};
+	B0C91DAF144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4D8936D11527B74007E1F53 /* tragamonedas.mm */;
+		name = "tragamonedas.mm: 27";
+		rLen = 64;
+		rLoc = 558;
+		rType = 0;
+		vrLen = 1202;
+		vrLoc = 0;
+	};
+	B0C91DB0144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D431448E86100C9B007 /* Premio.h */;
+		name = "Premio.h: 15";
+		rLen = 1;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 211;
+		vrLoc = 0;
+	};
+	B0C91DB1144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D491448E8C200C9B007 /* PremiosConfController.h */;
+		name = "PremiosConfController.h: 41";
+		rLen = 0;
+		rLoc = 911;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	B0C91DB2144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D4A1448E8C200C9B007 /* PremiosConfController.cpp */;
+		name = "PremiosConfController.cpp: 23";
+		rLen = 0;
+		rLoc = 642;
+		rType = 0;
+		vrLen = 1914;
+		vrLoc = 0;
+	};
+	B0C91DB3144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D461448E86E00C9B007 /* PremioConf.h */;
+		name = "PremioConf.h: 34";
+		rLen = 0;
+		rLoc = 782;
+		rType = 0;
+		vrLen = 906;
+		vrLoc = 0;
+	};
+	B0C91DB4144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D471448E86E00C9B007 /* PremioConf.cpp */;
+		name = "PremioConf.cpp: 89";
+		rLen = 0;
+		rLoc = 1996;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 2158;
+	};
+	B0C91DB5144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D731449205D00C9B007 /* CombinationSelector.h */;
+		name = "CombinationSelector.h: 17";
+		rLen = 0;
+		rLoc = 320;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 0;
+	};
+	B0C91DB6144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D741449205D00C9B007 /* CombinationSelector.cpp */;
+		name = "CombinationSelector.cpp: 31";
+		rLen = 0;
+		rLoc = 956;
+		rType = 0;
+		vrLen = 1624;
+		vrLoc = 56;
+	};
+	B0C91DB7144952C700C9B007 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B0C91D741449205D00C9B007 /* CombinationSelector.cpp */;
+		name = "CombinationSelector.cpp: 30";
+		rLen = 0;
+		rLoc = 894;
+		rType = 0;
+		vrLen = 1576;
+		vrLoc = 187;
+	};
+	E4D8936B11527B74007E1F53 /* main.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 158}";
+		};
+	};
+	E4D8936C11527B74007E1F53 /* tragamonedas.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 633}}";
+			sepNavSelRange = "{725, 0}";
+			sepNavVisRange = "{0, 737}";
+		};
+	};
+	E4D8936D11527B74007E1F53 /* tragamonedas.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 1313}}";
+			sepNavSelRange = "{558, 64}";
+			sepNavVisRange = "{0, 1202}";
+		};
+	};
+}
